@@ -7,7 +7,7 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "OME BOT",
+  "BOTNAME": "TOM BOT",
   "PREFIX": "?",
   "OPERATOR": [
     "100014896964436",
@@ -18,7 +18,7 @@
   ],
   "ADMINBOT": [
     "100014754734049",
-    "100090361566764",
+    "61551377657746",
     "61555255448716",
     "61561175294315",
     ""
